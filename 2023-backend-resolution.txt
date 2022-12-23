@@ -1,3 +1,2 @@
 Backend Resolution
 - inosoft bootcamp: backend
-- video online
