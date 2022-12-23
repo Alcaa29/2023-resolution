@@ -1,4 +1,3 @@
 Backend Resolution
 - inosoft bootcamp: backend
-- online video
 - youtube video
