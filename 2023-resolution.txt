@@ -3,3 +3,4 @@
 - first team project
 - became front-end developer
 - learn back-end developer
+- second bootcamp
